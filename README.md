@@ -1,5 +1,5 @@
 # Motion-Detector-to-Text-Message
-A Microcontroller (Arduino Yun) using a motion detector that sends a text message when someone approaches the front door.
+A Microcontroller (Arduino Yún) using a motion detector that sends a text message when someone approaches the front door.
 
 Another project for fun. I wish I had more time to give detailed "How-To" Instructions
 but if anyone ever has questions I would be more than glad to chat about it via email.
