@@ -12,3 +12,12 @@ your phone using its phone number and the appropriate concatenated domain name. 
 Enjoy!
 
 ![alt tag](http://i.imgur.com/ph8jbKX.png)
+
+![alt tag](http://i.imgur.com/44vYkly.jpg)
+
+![alt tag](http://i.imgur.com/YijPmxC.jpg)
+
+![alt tag](http://i.imgur.com/YijPmxC.jpg)
+
+![alt tag](http://i.imgur.com/TBewe6h.jpg)
+
