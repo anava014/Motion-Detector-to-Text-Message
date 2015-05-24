@@ -17,7 +17,5 @@ Enjoy!
 
 ![alt tag](http://i.imgur.com/YijPmxC.jpg)
 
-![alt tag](http://i.imgur.com/YijPmxC.jpg)
-
 ![alt tag](http://i.imgur.com/TBewe6h.jpg)
 
